@@ -1,0 +1,2 @@
+# rapidash
+Rapidash WordPress Theme
